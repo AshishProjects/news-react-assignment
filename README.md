@@ -1,3 +1,6 @@
+Open the link  [https://newsapi.org/]( https://newsapi.org/)  to get News Api. 
+Copy the API in config file
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
